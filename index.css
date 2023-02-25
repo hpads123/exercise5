@@ -1,0 +1,81 @@
+.card-group
+{
+    margin: 50px;;
+}
+
+
+.card-body
+{text-align: center;}
+
+nav {
+    background-color: #66ffd9;
+    text-decoration: none;
+    font-size: 35px;
+    padding: 15px;
+    padding-bottom: 22px;
+}
+a {
+    font-size: 18px;
+    color: black;
+    font-weight: bolder;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: #33d6ff;
+    padding: 25px;
+    
+}
+
+mark {
+    font-size: 40px;
+    padding-bottom: 15px;
+    background-color: #336699;
+}
+
+.img1 , .img3 
+{
+    float: left;
+    margin-right: 5px;
+}
+
+.img2, .img4
+{
+float: right;
+}
+
+table {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.img1, .img2 , .img3, .img4
+ {
+margin: 10px;
+   
+}
+
+footer{
+   font-size: 15px;
+    background-color: #66ffd9;
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+footer > a{
+    text-decoration: underline;
+    font-size: 14px;
+    color: blue ;
+    font-weight: lighter;
+}
+
+.d-inline-flex
+{
+    position: center;
+}
